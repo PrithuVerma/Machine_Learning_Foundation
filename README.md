@@ -11,7 +11,6 @@ The code is organized by course sections:
 
 ### 🔹 Part 1: Data Preprocessing  
 - Data Preprocessing in Python  
-- Data Preprocessing in R  
 
 ### 🔹 Part 2: Regression  
 - Simple Linear Regression  
@@ -21,7 +20,7 @@ The code is organized by course sections:
 - Decision Tree Regression  
 - Random Forest Regression  
 - Evaluating Regression Models Performance  
-- Regression Model Selection (Python & R)  
+- Regression Model Selection in Python
 
 ### 🔹 Part 3: Classification  
 - Logistic Regression  
@@ -66,7 +65,7 @@ The code is organized by course sections:
 ---
 
 ## ⚙️ Tech Stack  
-- **Languages**: Python, R  
+- **Languages**: Python
 - **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, NLTK, XGBoost  
 - **Tools**: Jupyter Notebook / Google Colab  
 
