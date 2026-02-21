@@ -58,10 +58,6 @@ The code is organized by course sections:
 - Linear Discriminant Analysis (LDA)  
 - Kernel PCA  
 
-### 🔹 Part 10: Model Selection & Boosting  
-- Model Selection  
-- XGBoost  
-
 ---
 
 ## ⚙️ Tech Stack  
